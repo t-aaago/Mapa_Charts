@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    height: 45%;
+    width: 50%;
+    border-radius: 10px ;
+    align-items: center ;
+    justify-content: center;
+    border: 1px  ;
+    position: absolute;
+    bottom: 48%;
+}
+.containerTree{
+    display: flex;
+    height: 45%;
+    width: 50%;
+    border-radius: 10px ;
+    align-items: center ;
+    justify-content: center;
+    border: 1px  ;
+    position: absolute;
+    bottom: 2%;
+}
+
